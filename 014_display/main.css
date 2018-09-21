@@ -11,10 +11,10 @@
  }
 
  img {
+     width: 200px;
      border: 10px groove orangered;
-     border-radius: 100%;
      padding: 20px;
-     margin: 10px;
+     box-sizing: border-box;
  }
 
 
